@@ -6,7 +6,8 @@
    --primary-color: #0f1b4c;
 }
 
-html, body {
+html,
+body {
    scroll-behavior: smooth;
 }
 
@@ -55,7 +56,7 @@ a {
    margin-right: auto;
 }
 /* =========== Header ============ */
-.fixed-header{
+.fixed-header {
    padding-top: 26px;
    background-color: #e6f0ff;
    position: sticky;
@@ -109,7 +110,7 @@ a {
    margin-left: 18px;
 }
 
-.info{
+.info {
    max-width: 51%;
 }
 
@@ -630,12 +631,12 @@ footer .desc {
    margin-bottom: 40px;
 }
 
-.footer .social-icon{
-   display: flex;  
-   margin-left: -16px; 
+.footer .social-icon {
+   display: flex;
+   margin-left: -16px;
 }
 
-.footer .social-icon a{
+.footer .social-icon a {
    display: inline-block;
    margin-left: 16px;
    text-align: center;
@@ -643,10 +644,10 @@ footer .desc {
    height: 28px;
    line-height: 28px;
    border-radius: 3px;
-   background-color: #F9F9F9;
+   background-color: #f9f9f9;
 }
 
-.footer .social-icon a:hover{
+.footer .social-icon a:hover {
    background-color: #ccc;
 }
 
